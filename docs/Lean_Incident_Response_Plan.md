@@ -4,7 +4,7 @@
 
 **Version 1.0  |  Confidential  |  2025**
 
-Prepared by: [Security Operations Team] Reviewed by: [CTO / Head of Engineering] Next Review Date: [Q4 2026]
+Prepared by: Security Operations Team Reviewed by: CTO / Head of Engineering Next Review Date: Q4 2026
 
 This document is intended for internal use. It defines the protocols, responsibilities, and communication flows your team should follow in the event of a cybersecurity incident. Review it. Practice it. Update it often.
 
